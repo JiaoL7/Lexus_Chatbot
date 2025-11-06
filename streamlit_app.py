@@ -1,5 +1,5 @@
 import streamlit as st
-from bot import reply
+from lexus_dialog_agent_v3.py import reply
 
 st.set_page_config(page_title="Rule-Based Chatbot", page_icon="💬")
 st.title("Rule-Based Chatbot")
